@@ -1,9 +1,15 @@
 # Leite-Com-Pera
 
-### 1. SUMÁRIO
-Este projeto tem como objetivo desenvolver um sistema de gerenciamento de dados simples, implementando as operações básicas do CRUD (Create, Read, Update e Delete). O sistema permitirá a manipulação de registros armazenados no MySQL, oferecendo uma interface para a criação, leitura, atualização e exclusão de informações.
+Feito por [Fábio Casagrande](https://github.com/fabin0casa) e [Nattan Silva de Souza](https://github.com/EthanHueh).
 
-### 2. O PROJETO
-O projeto criado tem o objetivo de simular uma Loja de Camisetas, com o nome “Leite com Pera”.
+O projeto consiste em um site da Loja de Roupas fictícia “Leite com Pera”. Desenvolvido no nosso 2º semestre de Análise e Desenvolvimento de Sistemas para a disciplina de PHP.
+
+### 1. Objetivos
+- Desenvolver um sistema e interface de gerenciamento de dados simples, implementando as operações básicas do criação, leitura, atualização e exclusão.
+
+### 2. Tecnologias Utilizadas
+- Linguagem de programação PHP.
+- Servidor web local: USBWebServer.
+- Editor de código: Visual Studio Code ou similar.
 
 ![image](https://github.com/user-attachments/assets/666ea910-c3f4-4bf8-bb60-c61fa6b1d9c2)
