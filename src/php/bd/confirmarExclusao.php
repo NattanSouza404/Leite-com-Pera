@@ -62,7 +62,7 @@
         </div>
         <button class="card" style = "background-color: rgb(255, 0, 0)"><h6 style="color: white">Excluir</h6></button>
     </form>
-
+    
     <hr/>
 
     <footer></footer>

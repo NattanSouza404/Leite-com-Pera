@@ -2,6 +2,10 @@
     text-align: center;
 }
 
+body {
+  background-color:#fffef0;
+}
+
 header{
   background: #fdf48f;
 }
@@ -104,4 +108,8 @@ th{
   font-size: 18px;
   text-shadow: 0 1px 0 rgb(0 0 0 / 40%);
   transition: box-shadow 0.15s ease,transform 0.15s ease;
+}
+
+#container-conta {
+  padding: 50px;
 }
