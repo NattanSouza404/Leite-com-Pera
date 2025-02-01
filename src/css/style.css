@@ -6,7 +6,11 @@ header{
   background: #fdf48f;
 }
 
-.row-6{
+#anuncios-camiseta, #anuncios-moletom {
+  padding: 100px;
+}
+
+.row-6 {
     margin: 50px;
 }
 

@@ -1,7 +1,7 @@
-header = document.querySelector('header');
+let header = document.querySelector('header');
 
 header.class = "p-3";
-header.style.backgroundColor = "#fdf48f"
+header.style.backgroundColor = "#fdf48f";
 
 header.innerHTML = `
     <div class="container">
